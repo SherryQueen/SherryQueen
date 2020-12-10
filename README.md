@@ -1,8 +1,9 @@
 ### Hello, I am 56 🧐
-> A little FE
+> A FE
 - 🌱 I’m currently learning Design Pattern
-- 📫 How to reach me: [sherryqueenlove@gmail.com](mail://sherryqueenlove@gmail.com)
+- 📖 My Note: [56Note](https://github.com/SherryQueen/56Note)
 - 💬 Motto: Let's tolerate our imperfections since we are all humans
+- 📫 How to reach me: [sherryqueenlove@gmail.com](mail://sherryqueenlove@gmail.com)
 
 <!--
 **SherryQueen/SherryQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
