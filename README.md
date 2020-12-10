@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I am 56 🧐
+> 一个小前端
+- 🌱 I’m currently learning Design Pattern
+- 📫 How to reach me: [sherryqueenlove@gmail.com](mail://sherryqueenlove@gmail.com)
+- 💬 Motto: Let's tolerate our imperfections since we are all humans
 
 <!--
 **SherryQueen/SherryQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
