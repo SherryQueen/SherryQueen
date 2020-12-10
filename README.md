@@ -1,5 +1,5 @@
 ### Hello, I am 56 🧐
-> 一个小前端
+> A little FE
 - 🌱 I’m currently learning Design Pattern
 - 📫 How to reach me: [sherryqueenlove@gmail.com](mail://sherryqueenlove@gmail.com)
 - 💬 Motto: Let's tolerate our imperfections since we are all humans
