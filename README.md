@@ -1,6 +1,5 @@
 ### Hello, I am 56 🧐
 > A FE
-- 🌱 I’m currently learning Design Pattern
 - 📖 My Note: [56Note](https://github.com/SherryQueen/56Note)
 - 💬 Motto: Let's tolerate our imperfections since we are all humans
 - 📫 How to reach me: [sherryqueenlove@gmail.com](mailto://sherryqueenlove@gmail.com)
