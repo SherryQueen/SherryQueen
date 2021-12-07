@@ -1,8 +1,10 @@
 ### Hello, I am 56 🧐
-> A FE
+> A Front-End Engineer. Now employed by ByteDance.
+- 🌱 I’m currently learning Design Pattern
 - 📖 My Note: [56Note](https://github.com/SherryQueen/56Note)
 - 💬 Motto: Let's tolerate our imperfections since we are all humans
 - 📫 How to reach me: [sherryqueenlove@gmail.com](mailto://sherryqueenlove@gmail.com)
+- ⚡ The repo is my note. If you have any questions please feel free. 😄
 
 <!--
 **SherryQueen/SherryQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
